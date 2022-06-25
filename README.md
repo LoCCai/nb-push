@@ -16,7 +16,7 @@ bot/data/xxx
 
 在nonebot的env配置文件中输入以下内容
 ```
-#定时发送配置-60s读世界/易即今日/Moyu
+#定时发送配置-60s读世界/易即今日/Moyu/历史上的今天/黄历
 
 #-60s读世界
 read_qq_friends=[] #设定要发送的QQ好友
